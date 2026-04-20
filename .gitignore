@@ -1,0 +1,4 @@
+activity.log
+.DS_Store
+backfill.sh
+sync.sh
