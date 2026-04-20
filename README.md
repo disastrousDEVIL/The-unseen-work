@@ -4,9 +4,7 @@
 
 ## What is this?
 
-I work as a Software Engineer specializing in backend development, agentic AI, 
-and DevOps across AWS and GCP. Most of my work happens in private repositories 
-under my company's GitHub organization, which means my personal GitHub profile 
+I work as a Software Engineer specializing in  Agentic AI, Backend development, and DevOps across AWS and GCP. Most of my work happens in private repositories under my company's GitHub organization, which means my personal GitHub profile 
 shows little to no activity — despite working every single day.
 
 This repository exists to bridge that gap.
