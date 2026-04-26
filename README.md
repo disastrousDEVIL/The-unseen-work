@@ -29,7 +29,19 @@ them here as empty commits with matching timestamps.
 
 ## My Work Account
 
-👉 https://github.com/krishbatra3 (work organization — private repos)
+👉 [https://github.com/krishbatra3](https://github.com/krishbatra3) (work organization — private repos)
 
 That account contains the actual code, pull requests, and technical work.
 This repository simply makes that activity visible on my personal profile.
+
+## Backfill Script Template
+
+A tracked template is available at `backfill.example.sh` so others can set this up quickly.
+
+1. Copy the template:
+   `cp backfill.example.sh backfill.sh`
+2. Update `MIRROR_DIR`, `WORK_REPO`, and `WORK_EMAIL` in `backfill.sh`.
+3. Preview behavior safely:
+   `./backfill.sh --sample`
+4. Run actual sync:
+   `./backfill.sh`
